@@ -1,0 +1,8 @@
+{
+  "name": "wokManager",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "57ce7c15"
+}
